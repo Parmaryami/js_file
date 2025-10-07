@@ -1,2 +1,3 @@
-# js_file
+# Simple java script based game
 my github repository
+
