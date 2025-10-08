@@ -1,0 +1,17 @@
+{
+  "name": "parmaryami-app",
+  "version": "1.0.0",
+  "description": "A simple web app built with HTML, CSS, and JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server",
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "Parmaryami",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.0.0",
+    "live-server": "^1.2.2"
+  }
+}
